@@ -1,0 +1,17 @@
+Collecting iopath
+  Downloading iopath-0.1.10.tar.gz (42 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: tqdm in /gscratch/krishna/danielog/miniconda3/lib/python3.12/site-packages (from iopath) (4.66.4)
+Requirement already satisfied: typing_extensions in /gscratch/krishna/danielog/miniconda3/lib/python3.12/site-packages (from iopath) (4.12.2)
+Collecting portalocker (from iopath)
+  Downloading portalocker-2.10.1-py3-none-any.whl.metadata (8.5 kB)
+Downloading portalocker-2.10.1-py3-none-any.whl (18 kB)
+Building wheels for collected packages: iopath
+  Building wheel for iopath (setup.py): started
+  Building wheel for iopath (setup.py): finished with status 'done'
+  Created wheel for iopath: filename=iopath-0.1.10-py3-none-any.whl size=31530 sha256=24d25aa78ce2ac6ffb041b2897ac50b4cf65ace85f25e0445c1d45c3d1e39a45
+  Stored in directory: /mmfs1/gscratch/krishna/danielog/.cache/pip/wheels/7c/96/04/4f5f31ff812f684f69f40cb1634357812220aac58d4698048c
+Successfully built iopath
+Installing collected packages: portalocker, iopath
+Successfully installed iopath-0.1.10 portalocker-2.10.1
